@@ -7,6 +7,9 @@ For this mod 4 prework exercise the goal was to create a node HTTP server. The s
 - Clone down repo.
 - Run `npm install`
 - Run `nodemon server.js`
+
+### Usage Instructions
+Use [Postman](https://www.postman.com/) for requests.  
 - GET Request:
   - In Postman create a 'GET' request to `http://localhost:3000`
 - POST Request:
